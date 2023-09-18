@@ -1,0 +1,10 @@
+D:\FedUni Projects\FMP\C#\DataReader1\Datareader1\bin\Debug\Datareader1.exe.config
+D:\FedUni Projects\FMP\C#\DataReader1\Datareader1\bin\Debug\Datareader1.exe
+D:\FedUni Projects\FMP\C#\DataReader1\Datareader1\bin\Debug\Datareader1.pdb
+D:\FedUni Projects\FMP\C#\DataReader1\Datareader1\obj\Debug\Datareader1.csproj.AssemblyReference.cache
+D:\FedUni Projects\FMP\C#\DataReader1\Datareader1\obj\Debug\Datareader1.Form1.resources
+D:\FedUni Projects\FMP\C#\DataReader1\Datareader1\obj\Debug\Datareader1.Properties.Resources.resources
+D:\FedUni Projects\FMP\C#\DataReader1\Datareader1\obj\Debug\Datareader1.csproj.GenerateResource.cache
+D:\FedUni Projects\FMP\C#\DataReader1\Datareader1\obj\Debug\Datareader1.csproj.CoreCompileInputs.cache
+D:\FedUni Projects\FMP\C#\DataReader1\Datareader1\obj\Debug\Datareader1.exe
+D:\FedUni Projects\FMP\C#\DataReader1\Datareader1\obj\Debug\Datareader1.pdb
